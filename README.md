@@ -1,10 +1,12 @@
 # RadiusCalculations
 This program asks for the radius value and then calculates the area and circumference of th circle. 
 
-import java.util.Scanner;
-public class KFS_RadiusCalculations_Main
+    import java.util.Scanner;
 
-{
+    public class KFS_RadiusCalculations_Main
+
+    {
+   
     public static void main(String [] args)
     
     {
@@ -19,4 +21,4 @@ public class KFS_RadiusCalculations_Main
         System.out.println(area);
     }
     
-}
+    }
